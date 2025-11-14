@@ -37,13 +37,6 @@ git clone https://github.com/tilucasoliveira/Projeto-Swift-DIO-tilucasoliveira.g
 cd Projeto-Swift-DIO-tilucasoliveira
 ```
 
-2. Abra no Xcode:
-```bash
-open Fundamentos.playground
-open POO.playground
-```
-
-3. Execute o código no Playground
 
 ## Conceitos Implementados
 
